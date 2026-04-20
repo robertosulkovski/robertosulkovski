@@ -1,6 +1,6 @@
 # Hi, I'm Roberto Sulkovski
 
-Data analyst building dashboards, data applications and machine learning solutions with Python and Power BI.
+Data analyst focused on building interactive dashboards, data applications and machine learning solutions to support data-driven decision-making.
 
 ---
 
@@ -28,8 +28,7 @@ Data analyst building dashboards, data applications and machine learning solutio
 
 ### Data Analysis Dashboard
 
-Interactive sales dashboard with filters, KPIs and automated insights using Pandas, Plotly and Streamlit.
-
+Interactive sales dashboard for revenue and profit analysis with filters, KPIs and automated insights.
 ### Business Intelligence Dashboards
 
 Power BI dashboards for sales, production and HR analytics, focused on KPIs and data-driven decision-making.
