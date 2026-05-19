@@ -1,6 +1,6 @@
 # Hi, I'm Roberto Sulkovski
 
-Data analyst focused on building interactive dashboards, data applications and machine learning solutions to support data-driven decision-making.
+ADS student focused on learning Python, SQL and data technologies, with interest in dashboards, automation and data-driven solutions.
 
 ---
 
